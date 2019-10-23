@@ -239,6 +239,11 @@ Note: cross-dependency is when you have two or more changes to separate projects
 </b></details>
 
 <details>
+<summary>List some common plugins in jenkins?</summary><br><b>
+</b></details>
+
+
+<details>
 <summary>Explain CI/CD and how you implemented it in Jenkins</summary><br><b>
 </b></details>
 
